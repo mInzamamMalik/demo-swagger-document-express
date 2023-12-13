@@ -33,6 +33,11 @@ npm start
 
 You can access the Swagger documentation at [http://localhost:3000/api-docs](http://localhost:3000/api-docs).
 
+## Useful Vscode Extentions:
+- [Swagger-jsdoc](https://marketplace.visualstudio.com/items?itemName=myyrakle.swagger-jsdoc): useful if you are typing docs by hand and not using chatgpt for generating docs
+
+
+
 ## Customization
 
 - Modify the Swagger configuration in `swaggerConfig.js` to customize the documentation.
